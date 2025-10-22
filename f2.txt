@@ -1,15 +1,9 @@
 0000OOO
-
-111
-
 AaaaaaaaaaaAaa
 BBbbbbBb
 CcCcccccCCC
 DddDddd
 Eeee
 FfFFfffffff
-
 Gggggg
-
-
 zyz
